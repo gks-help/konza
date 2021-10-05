@@ -16,6 +16,7 @@ The patient Search, patient view and patient summary pages were defined in the p
 	The routes.js file contains the details of the pages connecting from which files.
 Please Note:
 If we need to change or modify the Fields, we need to use those pages with API integration files.
+
 GIT
  We have updated UI codes in GitHub Repository, the access information is given below
 https://github.com/
