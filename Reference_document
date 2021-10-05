@@ -1,0 +1,36 @@
+Konza Reference Document
+
+The patient Search, patient view and patient summary pages were defined in the path “src\Pages\User\patient”
+•	Patientview.jsx
+•	Patientsummery.jsx
+•	patientAllsummery.jsx
+
+ the values of the patients are called in the file patientData.js.
+
+ Similarly for the Secure Messaging files were defined in the path “src\Pages\User\SecureMessage”
+•	secureMessage.jsx
+•	secureAdd.jsx
+•	secureSetting.jsx
+“src\Pages\User”
+•	dashboard.jsx
+	The routes.js file contains the details of the pages connecting from which files.
+Please Note:
+If we need to change or modify the Fields, we need to use those pages with API integration files.
+GIT
+ We have updated UI codes in GitHub Repository, the access information is given below
+https://github.com/
+Username gks-help
+Password Hbicodes$@21
+
+•	If you have Git Id please share us to give access for the source code , Otherwise you can use the above credentials to get the code.
+•	To Run the application, we require node to be installed in the system 
+•	Unzip the folder and open in terminal and run the following command
+	1.Node [npm] should be installed for React JS 
+•	npm -i  
+•	npm start   
+   in the browser  http://localhost:3000 to see the application running
+    login username mkumar@teracrunch.com password Test@12345
+
+Please Note
+1.	We can be able to integrate the UI with CCDA document, but we need to modify the respective fields in the demo application before we are developing the APIs.
+2.	Yes, it’s possible to integrate with Json format data. 
